@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, im agustin, this will be my repository for html+css proyects, thx for passing by👋
 
 <!--
 **Sarverry/sarverry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
